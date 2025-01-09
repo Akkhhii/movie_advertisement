@@ -1,0 +1,27 @@
+* {
+margin : 0;
+padding : 0;
+box-sizing : border-box;
+}
+
+html, body {
+height : 100%;
+width: 100%;
+font-family: "poppins";
+}
+#avatar{
+    font-family: 'Bebas Neue';
+    letter-spacing: 0.1em;
+}
+
+#screen{
+    letter-spacing: 0.5em;
+}
+
+#cast{
+    font-family: "Dancing Script";
+}
+
+#first{
+    font-family: 'Lobster';
+}
